@@ -43,7 +43,7 @@
              />
 
         <TextView
-            style="@style/Subtitle"
+            style="@style/TextView"
             android:text="@string/text3"
             />
 
