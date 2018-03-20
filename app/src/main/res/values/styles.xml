@@ -71,11 +71,12 @@
         <style name = "text" parent="Description">
             <item name ="android:gravity">right</item>
             <item name ="android:layout_width">match_parent</item>
+            <item name ="android:textColor">@android:color/darker_gray</item>
             </style>
 
     <style name = "Title" parent = "TextView">
         <item name ="android:text">GlaDOS</item>
-
+        <item name = " android:src">@drawable/ic_computer_black_24dp</item>
     </style>
 
 

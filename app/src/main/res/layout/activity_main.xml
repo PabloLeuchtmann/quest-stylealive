@@ -7,6 +7,9 @@
     <LinearLayout
         style="@style/LinearLayout">
 
+        <ImageView
+           style="@style/ImageView" />
+
         <TextView
             style="@style/Title"
             android:text="@string/title"
