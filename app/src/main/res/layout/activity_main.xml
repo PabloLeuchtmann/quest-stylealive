@@ -40,12 +40,12 @@
              />
 
         <TextView
-            style="@style/Text"
+            style="@style/Subtitle"
             android:text="@string/text3"
             />
 
         <TextView
-            style="@style/Text"
+            style="@style/text"
             android:text="@string/c_est_cool"
             />
 
